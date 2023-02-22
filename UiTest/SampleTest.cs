@@ -9,6 +9,7 @@ namespace UiTest
         {
             // Arrange
             var myvar = "test";
+            
 
             //Act
             bool result= (myvar == "test");
